@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yulianadorami/python-desde-cero-100-ejercicios/main/assets/hero.svg" alt="Python desde Cero · 100 Ejercicios" width="560">
+  <img src="assets/hero.svg" alt="Python desde Cero · 100 Ejercicios" width="560">
 </p>
 
 <h1 align="center">Python desde Cero: 100 Ejercicios con Solución</h1>
@@ -19,10 +19,7 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yulianadorami/python-desde-cero-100-ejercicios/main/assets/sec-empezar-dark.svg">
-  <img src="https://raw.githubusercontent.com/Yulianadorami/python-desde-cero-100-ejercicios/main/assets/sec-empezar-light.svg" alt="" height="38">
-</picture>
+<img src="assets/sec-empezar.svg" alt="" height="38">
 
 ### ¿Nunca usaste GitHub? Empieza por aquí 👇
 
@@ -47,10 +44,7 @@ No necesitas cuenta de GitHub, ni instalar Python, ni saber usar `git`. Solo una
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yulianadorami/python-desde-cero-100-ejercicios/main/assets/sec-ejercicios-dark.svg">
-  <img src="https://raw.githubusercontent.com/Yulianadorami/python-desde-cero-100-ejercicios/main/assets/sec-ejercicios-light.svg" alt="" height="38">
-</picture>
+<img src="assets/sec-ejercicios.svg" alt="" height="38">
 
 Los temas están ordenados: cada uno usa lo del anterior. Si recién empiezas, hazlos en orden.
 
@@ -129,10 +123,7 @@ Cuatro reglas que separan *leer* ejercicios de *aprender* a programar:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yulianadorami/python-desde-cero-100-ejercicios/main/assets/sec-datasets-dark.svg">
-  <img src="https://raw.githubusercontent.com/Yulianadorami/python-desde-cero-100-ejercicios/main/assets/sec-datasets-light.svg" alt="" height="38">
-</picture>
+<img src="assets/sec-datasets.svg" alt="" height="38">
 
 Los ejercicios usan datos pequeños inventados, para que te concentres en la lógica y nada dependa de una descarga. Pero cuando termines los temas 09 y 10, lo mejor que puedes hacer es **aplicar lo aprendido a datos reales**.
 
@@ -166,10 +157,7 @@ Esas cuatro líneas son exactamente lo que practicaste en el tema 10. A partir d
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yulianadorami/python-desde-cero-100-ejercicios/main/assets/sec-recursos-dark.svg">
-  <img src="https://raw.githubusercontent.com/Yulianadorami/python-desde-cero-100-ejercicios/main/assets/sec-recursos-light.svg" alt="" height="38">
-</picture>
+<img src="assets/sec-recursos.svg" alt="" height="38">
 
 Recursos gratuitos que vale la pena conocer mientras avanzas:
 
